@@ -1,6 +1,6 @@
 # 🏢 Building Manager's Multi-Agent RAG Assistant  
 
-![UI Screenshot](UI_Screenshot.png)  
+![UI Screenshot](UI_Screenshot.jpg)  
 
 **A smart, document-aware chatbot** that helps building managers quickly find answers about facilities, events, emergencies, and more—powered by multi-agent workflows and Retrieval-Augmented Generation (RAG).  
 
@@ -18,6 +18,11 @@
   - 👔 **Policies**: Dress code, shift protocols, radio etiquette.  
 - **Self-Improving Workflow**: Auto-refines questions and filters irrelevant documents.  
 - **Streamlit UI**: Clean, interactive chat interface with background customization.  
+
+
+
+![LangraphFlow](Langraph_Flow.png)  
+
 
 ---
 
